@@ -1,0 +1,48 @@
+/* h1{
+    color:blue;
+} */
+*{
+    margin: 1px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+.divOne{
+    margin-top: 110px;
+}
+.divA, .divB{
+  flex: 1; /* or set specific width */
+  padding: 20px;
+  /* border: 1px solid black; */
+}
+.herioImg{
+    width: 20px;
+    height: 20px;
+}
+/* .divB{
+    width: 50%;
+    height: 250px;
+    border: 1px solid rgb(255, 255, 255);
+} */
+ .no-bullets {
+  list-style-type: none;
+  padding: 0; /* Optional: removes default left padding */
+  margin: 0;  /* Optional: removes default top/bottom margin */
+}
+.serviceSection{
+  flex: 1; /* or set specific width */
+  padding: 20px;
+  
+}
+.nav-link{
+  color: black;
+  font-weight: 200;
+}
+.her1{
+  font-size: 60px;
+}
+.par01{
+  font-size: 20px;
+}
+.abc{
+  font-size: 40px;
+}
